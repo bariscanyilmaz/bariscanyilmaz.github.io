@@ -1,0 +1,15 @@
+{
+  "name": "profilepage",
+  "version": "1.0.0",
+  "description": "My profil page ",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "Barış Can Yılmaz",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0"
+  }
+}
